@@ -26,6 +26,8 @@ html,body {
 	width: 100px;
 	top: 50%;
 	left: 50%;
+    margin-top: -60px;
+    margin-left: -60px;
 	border: 2px solid transparent;
 	border-top-color: #e84393;
 	border-radius: 50%;
